@@ -4,22 +4,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Activity_Menu">
+    tools:context=".ActivityMenu">
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/menu_BTN_start"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:text="Start Game" />
+        android:text="@string/start_game" />
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="48dp"
-        android:hint="ID"
-        app:counterEnabled="true"
+        android:hint="@string/id"
+        app:counterEnabled="false"
         app:counterMaxLength="9">
 
         <com.google.android.material.textfield.TextInputEditText

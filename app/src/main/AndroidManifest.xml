@@ -13,8 +13,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ReverseEngineering"
         tools:targetApi="31">
-        <activity android:name=".Activity_Game" android:screenOrientation="portrait"/>
-        <activity android:name=".Activity_Menu" android:screenOrientation="portrait"
+        <activity android:name=".ActivityGame" android:screenOrientation="portrait"/>
+        <activity android:name=".ActivityMenu" android:screenOrientation="portrait"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
