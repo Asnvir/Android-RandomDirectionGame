@@ -1,0 +1,155 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "apk_to_decompile.apk"
+  ],
+  "treeExpansions": [
+    [
+      "com",
+      "Source code",
+      "apk_to_decompile.apk"
+    ],
+    [
+      "Resources",
+      "apk_to_decompile.apk"
+    ],
+    [
+      "classy.survivegame",
+      "com",
+      "Source code",
+      "apk_to_decompile.apk"
+    ],
+    [
+      "res",
+      "Resources",
+      "apk_to_decompile.apk"
+    ],
+    [
+      "com.classy.survivegame.Activity_Menu",
+      "classy.survivegame",
+      "com",
+      "Source code",
+      "apk_to_decompile.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.classy.survivegame.Activity_Game",
+      "subPath": "java",
+      "caret": 3031,
+      "view": {
+        "x": 0,
+        "y": 533
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.classy.survivegame.BuildConfig",
+      "subPath": "java",
+      "caret": 84,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.classy.survivegame.Activity_Menu",
+      "subPath": "java",
+      "caret": 552,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "resource",
+      "tabPath": "res/layout/activity_game.xml",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "resource",
+      "tabPath": "res/drawable/ic_left.xml",
+      "subPath": "",
+      "caret": 1023,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "resource",
+      "tabPath": "res/drawable/ic_down.xml",
+      "subPath": "",
+      "caret": 925,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "resource",
+      "tabPath": "res/drawable/ic_right.xml",
+      "subPath": "",
+      "caret": 996,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "resource",
+      "tabPath": "res/drawable/ic_up.xml",
+      "subPath": "",
+      "caret": 958,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "resource",
+      "tabPath": "res/layout/activity_menu.xml",
+      "subPath": "",
+      "caret": 1034,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.classy.survivegame.R",
+      "subPath": "java",
+      "caret": 154268,
+      "view": {
+        "x": 0,
+        "y": 38560
+      }
+    },
+    {
+      "type": "resource",
+      "tabPath": "AndroidManifest.xml",
+      "subPath": "",
+      "caret": 825,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  ],
+  "activeTab": 11,
+  "cacheDir": "apk_to_decompile.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": []
+}
