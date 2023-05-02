@@ -8,11 +8,11 @@ The ID number entered by the user must be at least 1 digit long. If the user ent
 
 ## How to play
 1.  Enter ID number (at elast 1 digit).
-2.  The ID number is converted into a sequence of steps using the modulo 4. For example, for ID number 0123, the win sequence will be up, right, down, left.
-  - digit%4=0 is up direction
-  - digit%4=1 is right direction
-  - digit%4=2 is down direction
-  - digit%4=3 is left direction
+2.  The ID number is converted into a sequence of steps using the modulo 4. For example, for ID number 0123, the win sequence will be ↑ (up),  → (right), ↓ (down), ← (left).
+- digit % 4 = 0: ↑ (up)
+- digit % 4 = 1: → (right)
+- digit % 4 = 2: ↓ (down)
+- digit % 4 = 3: ← (left)
 3.   Use the arrow keys on your keyboard to move.
 4.  If you successfully follow the sequence of directions, a message is displayed showing a random state from state.json that was downloaded from the server.
 
